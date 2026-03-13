@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, Helvetica, Arial;
+    background-image: linear-gradient(to bottom, rgb(0, 152, 28), rgb(64, 117, 240));
+    font-size: 20px;
+}
+li {
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, Arial;
+    text-align: center;
+    font-weight: bold;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+      p {
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+      }
+      a {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        text-decoration: none;
+      }
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: bold;
+        color: rgb(234, 255, 0);
+      }
+      h2 {
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+         color: rgb(0, 255, 51);
+      }
+      h3 {
+           text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        color: rgb(0, 255, 51);
+      }
+      .cor-letra1 {
+        color: rgba(255, 0, 0, 1);
+      }
+      .cor-letra2 {
+        color: rgba(255, 128, 0, 1);
+      }
+      .cor-letra3 {
+        color: rgba(255, 255, 0, 1);
+      }
+      .cor-letra4 {
+        color: rgba(0, 255, 0, 1);
+      }
+      .cor-letra5 {
+        color: rgba(0, 255, 255, 1);
+      }
+      .cor-letra6 {
+        color: rgba(0, 0, 255, 1);
+      }
+      .cor-letra7 {
+        color: rgba(128, 0, 128, 1);
+      }
+      .cor-letra8 {
+        color: rgba(255, 192, 203, 1);
+      }
+      .cor-href1 {
+        color: rgb(9, 255, 0);
+      }
+      .cor-href2 {
+        color: rgb(255, 0, 0);
+      }
+      .cor-href3 {
+        color: rgb(0, 0, 0);
+      }
